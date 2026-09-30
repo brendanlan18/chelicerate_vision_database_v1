@@ -19,7 +19,7 @@
 * 'trophic_breadth':	generalist vs specialist  
 * 'body_length':	pycnogonid: trunk + cephalon length. opiliones: cephalothorax + abdomen length. - # of mm  
 * 'bl_source, th_source, ld_source':	figure, paper, personal  
-* 'tubercle_height':	length of tubercle from base of cephalon/cephalothorax to the furthest tip of eye hill/ocular 'tubercle/ocularium - # of mm  
+* 'tubercle_height':	length of tubercle from base of cephalon/cephalothorax to the furthest tip of eye hill/ocular tubercle/ocularium - # of mm  
 * 'eye_number':	0,2,4  
 * 'ant_lens_diameter':	longest axis of anterior lens diameter. groups with a single pair of median eyes will be inputted here due to unknown homology. - # of mm  
 * 'post_lens_diameter':	longest axis of posterior lens diameter - # of mm  
