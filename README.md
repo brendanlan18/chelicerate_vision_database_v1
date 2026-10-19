@@ -1,5 +1,5 @@
 # Chelicerate vision database (1.1.0-alpha)
-##Harvester arachnids (order: Opiliones)
+## Harvester arachnids (order: Opiliones)
 
 ### Question: 
 * High visual acuity is needed to achieve complex visual tasks such as active visual prey pursuit (Class IV vision: Nilsson, 2013). Given that larger eye sizes allow for greater acuity, do harvesters that actively pursue prey have larger absolute eye sizes?
