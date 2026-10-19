@@ -1,8 +1,0 @@
-order,family,genus,species,sex,depth,depth_source,light_environment,foraging_ecology,diet,general_eating_behavior,specific_eating_behavior,trophic_breadth,body_length,bl_source,tubercle_height,th_source,eye_number,ant_lens_diameter,post_lens_diameter,ld_source,metric_conversion_yn,references
-eupnoi,caddidae,caddo,agilis,f,,,photopic,pursuit,"collembola, psychodids",carnivore,,generalist,2.2,,0.3,,2,0.54,,,y,
-dyspnoi,trogulidae,trogulus,tricarinatus,f,,,scotopic,pursuit,gastropods,carnivore,,specialist,14,,0,,2,0.08,,,y,
-laniatores,cosmetidae,libitioides,sayi,f,,,scotopic,pursuit,,omnivore,,generalist,8.2,,0.05,,2,0.14,,,y,
-dyspnoi,sabaconidae,sabacon,cavicolens,f,,,scotopic,pursuit,collembola,carnivore,,specialist,4.6,,0.07,,2,0.12,,,y,
-dyspnoi,acropsopilionidae,acropsopilio,boopis,f,,,photopic,pursuit,,carnivore,,generalist,1.7,,0.2,,2,0.48,,,y,
-eupnoi,phalangiidae,phalangium,opilio,f,,,scotopic,pursuit,,omnivore,,generalist,7.6,,0.08,,2,0.16,,,y,
-eupnoi,sclerosomatidae,leiobunum,vittatum,f,,,photopic,pursuit,,omnivore,,generalist,6.5,,0.08,,2,0.11,,,y,
